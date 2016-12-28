@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="rule">시간제한 30초\n최대한 많은 그림의 이름을 맞추세요\n생명은 3개</string>
+</resources>
